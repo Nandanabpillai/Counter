@@ -1,3 +1,3 @@
-# React task
+# Counter
 
-Selection task for React study jams conducted by Tinkerhub
+A sample counter webpage using HTML, CSS and Javascript
